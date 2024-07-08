@@ -4,4 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-n00b4life
+<p>This site will initially be used for documenting TryHackMe and HTB system walkthroughs as I complete them. While I have noted some ideas on further topics to cover, I am new to using GitHub, jekyll, and markdown.</p>
+
+<p>My goal is to learn all the things while documenting the progress here.</p>
