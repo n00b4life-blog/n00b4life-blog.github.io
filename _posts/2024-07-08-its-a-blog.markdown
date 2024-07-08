@@ -1,6 +1,6 @@
 ---
 title: "It's a blog"
-date: 2024-07-08 12:00:00
+date: 2024-07-08
 categories: [blog]
 tags: [tryhackme]
 ---
