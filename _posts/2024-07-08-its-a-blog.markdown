@@ -2,7 +2,7 @@
 title: "It's a blog"
 date: 2024-07-08
 categories: [blog]
-tags: [tryhackme]
+tags: [tryhackme, htb]
 ---
 
 <p>This site will initially be used for documenting TryHackMe and HTB system walkthroughs as I complete them. While I have noted some ideas on further topics to cover, I am new to using GitHub, jekyll, and markdown.</p>
