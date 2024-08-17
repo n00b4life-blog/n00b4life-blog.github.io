@@ -198,6 +198,17 @@ smb: \Users\administrator\Desktop\>
 
 Success! We have compromised the system and escalated our privileges to local administrator which allowed us to retrieve both the user and root flags.
 
+Can we go one step further and get a shell as administrator or system?
+
+```
+psexec.py administrator@10.10.10.74
+```
+
+![](/assets/img/chatterbox/Walkthrough-psexec-py.png)
+
+![](/assets/img/chatterbox/Walkthrough-you-betcha.png)
+
+
 This was a fun and at times frustrating challenge due to stability issues. Chances are high that you will lose your shell and most likely have to reboot the box at least once. 
 
 Automagic enumeration utilizing winpeas.bat did not work for me. Winpeas would run for a bit and never complete. The shell would hang forcing me to kill the connection and restart the box. Manual enumeration was key for privilege escalation.
